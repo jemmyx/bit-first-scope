@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": {
+      "scope": "meyer-it.my-first-scope",
+      "name": "hello-world"
+    },
+    "isSymlink": true,
+    "hash": "fbb969117edfa916b86dfb67fd11decf1e336df0"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "bundlers/vue"
+    },
+    "isSymlink": false,
+    "hash": "bfc6b3dffe3103a5c902adbc75aca432dc3f4e3d"
+  },
+  {
+    "id": {
+      "scope": "meyer-it.my-first-scope",
+      "name": "hello-world"
+    },
+    "isSymlink": false,
+    "hash": "6c542afb875478bd9cb2fa4fd493e7fad80a50af"
+  }
+]
